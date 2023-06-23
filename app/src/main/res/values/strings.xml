@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ejercicio2m5</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="exit">Exit</string>
+    <string name="pokemon" translatable="false">Pikachu</string>
+    <string name="Answer1">Yes</string>
+    <string name="Answer2">No</string>
+    <string name="Ask">Do you know this Pokemon?</string>
+    <string name="Answer3">Yes I know him</string>
+    <string name="Answer4">Do not know him</string>
+</resources>

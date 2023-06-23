@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ejercicio2m5</string>
+    <string name="open">Abrir</string>
+    <string name="close">Cerrar</string>
+    <string name="exit">Salir</string>
+    <string name="Ask">¿Conoces a este Pokémon?</string>
+    <string name="Answer1">Si</string>
+    <string name="Answer2">No</string>
+    <string name="Answer3">Si Lo conozco</string>
+    <string name="Answer4">No Lo conozco</string>
+</resources>
